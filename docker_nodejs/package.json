@@ -7,11 +7,7 @@
       "start": "node server.js"
     },
     "keywords": ["http", "server", "nodejs"],
-    "author": "Zaprudnov Fedor",
-    "license": "MIT",
-    "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FIZZI-77/niaspo-.git"
-    }
+    "author": "Ilya Slesar",
+    "license": "MIT"
   }
   
